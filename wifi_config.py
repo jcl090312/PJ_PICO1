@@ -1,2 +1,0 @@
-WIFI_SSID = "sw2-1-2.4g"
-WIFI_PASSWORD = "dghs123456"
